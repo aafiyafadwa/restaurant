@@ -1,0 +1,48 @@
+Requirements
+1. Member 1 – User Login & Registration
+•	User registration
+•	User login
+•	User profile
+•	Secure password
+2. Member 2 – Restaurant & Food Menu
+•	View restaurants
+•	View food menu
+•	Add food items
+•	Update food items
+•	Check food availability
+3. Member 3 – Order & Cart
+•	Add food to cart
+•	Place orders
+•	Manage orders
+•	View order status
+•	Order history
+4. Member 4 – Payment & Coupons
+•	Online payment
+•	Payment confirmation
+•	Apply coupons
+•	Discounts
+•	Payment history
+5. Member 5 – GPS & Delivery
+•	View customer location
+•	GPS tracking
+•	Accept delivery
+•	Update delivery status
+•	Track delivery
+6. Member 6 – Admin & Testing
+•	Manage users
+•	Manage restaurants
+•	Manage orders
+•	View reports
+•	Test the application
+•	Check security
+
+
+
+
+Member	Requirement
+Member 1	User Login & Registration
+Member 2	Restaurant & Food Menu
+Member 3	Order & Cart Management
+Member 4	Payment & Coupons
+Member 5	GPS & Delivery Tracking
+Member 6	Admin & Testing
